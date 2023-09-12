@@ -2,7 +2,7 @@
 
 **Tasks for the recruitment of MLSA Technical Domain.**
 
-**Task 1**
+***Task 1***
 
 ## Playing with Employee Details
 
@@ -18,7 +18,7 @@
 ### Q4: Feature with the Highest Standard Deviation
 - Identify which feature has the highest standard deviation in the dataset.
 
-**Task 2**
+***Task 2***
 
 ## Customer Segmentation with Kaggle Titanic
 
